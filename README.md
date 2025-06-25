@@ -1,17 +1,17 @@
 # Task 2: Data Insertion and Handling Nulls
 
-✅ Objective:
+✅ **Objective:**
 To practice SQL operations like inserting, updating, and deleting data while handling NULL values and using default values effectively.
 
-🏥 Project: Hospital Management Database
+🏥 **Project: Hospital Management Database**
 
-Database contains the following tables:
+📄 **Database contains the following tables:**
 - Hospital – Stores hospital information
 - Doctor – Stores doctor details and their associated hospital
 - Patient – Stores patient records with optional phone info
 - Appointment – Tracks appointments between doctors and patients
 
-📌 What Was Done:
+📌 **What Was Done:**
 1. Created Tables using CREATE TABLE with relevant data types and foreign key constraints.
 2. Inserted Data using INSERT INTO, including:
    - Rows with normal values
@@ -25,12 +25,12 @@ Database contains the following tables:
    - Cleaning up unassigned doctors
 5. Displayed Data using SELECT * queries to verify changes.
 
-🖼️ Optional Attachments:
-- Screenshots of successful query execution/output (if required)
+📎 **Optional Attachments:**
+- Screenshots of successful query execution/output 
 
-📂 Tools Used:
+🧰 **Tools Used:**
 - MySQL Workbench (for writing and executing SQL queries)
 
-Files Included:
-- task2_hospital.sql – Contains all SQL commands: CREATE, INSERT, UPDATE, DELETE, and SELECT
-- (Optional) Screenshot(s) for query results
+📂 **Files Included:**
+- task_2.sql – Contains all SQL commands: CREATE, INSERT, UPDATE, DELETE, and SELECT
+- Screenshot(s) for query results
